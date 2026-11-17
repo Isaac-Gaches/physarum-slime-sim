@@ -1,0 +1,11 @@
+[package]
+name = "physarum-slime-sim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pollster = "0.4.0"
+winit = "0.30.13"
+easy-gpu = "0.5.5"
+bytemuck = "1.25.2"
+rand = "0.9.0"
